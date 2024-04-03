@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-2.1.html">
-      <change beforePath="$PROJECT_DIR$/L-2/hw-2.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-2/hw-2.2.html" afterDir="false" />
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-2.2.html">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +61,7 @@
       <workItem from="1712048843780" duration="15000" />
       <workItem from="1712072068978" duration="387000" />
       <workItem from="1712083998599" duration="531000" />
-      <workItem from="1712170701193" duration="6889000" />
+      <workItem from="1712170701193" duration="7752000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -119,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712177384436</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add hw-2.2.html">
+      <option name="closed" value="true" />
+      <created>1712177675922</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712177675922</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +152,7 @@
     <MESSAGE value="add hw2-2.html" />
     <MESSAGE value="1" />
     <MESSAGE value="add hw-2.1.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw-2.1.html" />
+    <MESSAGE value="add hw-2.2.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw-2.2.html" />
   </component>
 </project>

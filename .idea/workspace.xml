@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-2.2.html">
+      <change afterPath="$PROJECT_DIR$/L-2/hw-2.3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +62,8 @@
       <workItem from="1712048843780" duration="15000" />
       <workItem from="1712072068978" duration="387000" />
       <workItem from="1712083998599" duration="531000" />
-      <workItem from="1712170701193" duration="7752000" />
+      <workItem from="1712170701193" duration="7769000" />
+      <workItem from="1712215107365" duration="7992000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -127,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712177675922</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add hw-2.2.html">
+      <option name="closed" value="true" />
+      <created>1712178499960</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712178499960</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

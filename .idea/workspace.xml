@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-2.3.html">
-      <change beforePath="$PROJECT_DIR$/L-2/hw-2.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-2/hw-2.3.html" afterDir="false" />
-    </list>
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-2.3.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,7 @@
       <workItem from="1712072068978" duration="387000" />
       <workItem from="1712083998599" duration="531000" />
       <workItem from="1712170701193" duration="7769000" />
-      <workItem from="1712215107365" duration="8296000" />
+      <workItem from="1712215107365" duration="8496000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -144,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712223296591</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add hw-2.3.html">
+      <option name="closed" value="true" />
+      <created>1712223442377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712223442377</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add L-3">
-      <change afterPath="$PROJECT_DIR$/L-3/hw3.1-maket4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/L-3/style3.1-m4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-3/hw3.1-maket5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-3/style3.1-m5.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L-2/hw-2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-2/hw-2.1.html" afterDir="false" />
     </list>
@@ -70,7 +70,7 @@
       <workItem from="1712215107365" duration="8496000" />
       <workItem from="1712234464261" duration="2275000" />
       <workItem from="1712252372245" duration="623000" />
-      <workItem from="1712398990166" duration="13806000" />
+      <workItem from="1712398990166" duration="14954000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -184,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712407630308</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add L-3">
+      <option name="closed" value="true" />
+      <created>1712413333583</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1712413333583</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

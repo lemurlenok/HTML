@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+.box-color{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    font-size: 40px;
+    color: black;
+
+ }
+
+#red{
+    background-color: #9a1818;
+}
+#blu{
+    background-color: blue;
+}
+#green{
+    background-color: green;
+}

@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+header, footer{
+    height: 10vh;
+    background: #D9D9D9;
+}
+main{
+    height: 19.9592vh;
+    background: #C2C4AC;
+
+}
+div{
+    height: 60.081vh;
+    display: flex;
+
+}
+section, nav{
+    height: 100%;
+    width: 19.411vw;
+    background: #9EA087;
+}
+aside{
+    height: 100%;
+    width: 61.177vw;
+    background: #78786F;
+}
+
+

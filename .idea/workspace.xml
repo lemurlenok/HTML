@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw3.1-m5">
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw3.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L-2/hw-2.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-2/hw-2.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L-3/hw-3.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-3/hw-3.2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L-3/style3.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/L-3/style3.2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <workItem from="1712234464261" duration="2275000" />
       <workItem from="1712252372245" duration="623000" />
       <workItem from="1712398990166" duration="15624000" />
-      <workItem from="1712420026370" duration="7561000" />
+      <workItem from="1712420026370" duration="8205000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -209,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712424242581</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add hw3.2">
+      <option name="closed" value="true" />
+      <created>1712428067175</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1712428067175</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -238,6 +245,7 @@
     <MESSAGE value="add hw-2.1.html" />
     <MESSAGE value="add L-3" />
     <MESSAGE value="add hw3.1-m5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw3.1-m5" />
+    <MESSAGE value="add hw3.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw3.2" />
   </component>
 </project>

@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+}
+.box{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    font-size: 25px;
+    flex-direction: column ;
+}
+p{
+    margin: 40px;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+#pink{
+    background-color: pink;
+    text-align: center;
+
+
+}
+#blak{
+    background-color: black;
+    text-align: center;
+    color: white;
+}

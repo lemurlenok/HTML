@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw4.2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L-4/hw-4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-4/hw-4.2.html" afterDir="false" />
-    </list>
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw4.2-n" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +86,7 @@
       <workItem from="1712730730517" duration="3719000" />
       <workItem from="1712734711500" duration="3507000" />
       <workItem from="1712747296936" duration="15817000" />
-      <workItem from="1712763543782" duration="1000000" />
+      <workItem from="1712763543782" duration="1247000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -291,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712763143793</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="add hw4.2-n">
+      <option name="closed" value="true" />
+      <created>1712764760140</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1712764760140</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,6 +331,7 @@
     <MESSAGE value="add hw3.1-m4-now" />
     <MESSAGE value="add hw4.1" />
     <MESSAGE value="add hw4.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw4.2" />
+    <MESSAGE value="add hw4.2-n" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw4.2-n" />
   </component>
 </project>

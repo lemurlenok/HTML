@@ -9,13 +9,10 @@
     <style>
         div{
             margin: 10px;
-
         }
 
         .b-1{
             margin: 40px 600px;
-            height: 400px;
-            width: 150px;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -23,7 +20,7 @@
 
         }
         .insta{
-            width: 400px;
+            width: 350px;
             display: flex;
 
         }
@@ -33,10 +30,10 @@
             align-items: center;
             flex-direction: column;
             border-radius: 3px;
-            border: 1px grey;
-            width: 50vw;
+            border: 1px solid grey;
+            width: 25vw;
             height: 70vh;
-            margin: 40px;
+
         }
         input{
             display: block;
@@ -47,7 +44,51 @@
         #email{
             text-overflow: ellipsis;
         }
+        .question{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            border-radius: 3px;
+            border: 1px solid #8c8a8a;
+            width: 25vw;
+            height: 10vh;
 
+        }
+        button{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 3px;
+            border: 5px solid  #4299f6;
+            background-color: #4299f6;
+            width: 300px;
+            height: 40px;
+            margin: 20px;
+            color: white;
+
+        }
+        input[type="email"]{
+            width: 300px;
+            height: 40px;
+            margin: 20px;
+
+        }
+        input[type="password"]{
+            width: 300px;
+            height: 42px;
+            margin: 20px;
+        }
+        span{
+            display: flex;
+            justify-content: center;
+
+        }
+        .Look{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
 
 
 
@@ -55,28 +96,23 @@
 </head>
 <body>
     <div class="b-1">
-        <div class="BOX">
-            <div class="main">
+        <div class="main">
                 <img class="insta" src="insta.png" height="148" width="500"  alt="">
                 <form>
-                    <label for="email"></label>
                     <input type="email" name="email" id="email" placeholder="Номер телефону, ім'я користувача або email адреса" required>
-                    <label for="password"></label>
                     <input type="password" name="password" id="password" placeholder="werd1563">
                     <button>Увійти</button>
                     <span>АБО</span>
-                    <div classe="Look">
+                    <div class="Look">
                         <img class="Logo" src="icons8-facebook-48.png" alt="facebook">
                         <a href="#">Увійти через Facebook</a>
                     </div>
 
-                    <div classe="question">
-                        <span style="color: black">Немає обліклвого запису? Зареєструйся</span>
-                    </div>
-
                 </form>
 
-            </div>
+        </div>
+        <div class="question">
+            <p style="color: black">Немає обліклвого запису? Зареєструйся</p>
         </div>
     </div>
 

@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw3.2-now">
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw3.1-m4-now">
+      <change afterPath="$PROJECT_DIR$/L-4/hw-4.1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-4/hw-4.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-4/style4.1.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,13 +18,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/L-4/hw-4.1.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -48,6 +57,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -73,6 +83,14 @@
       <workItem from="1712494875642" duration="79000" />
       <workItem from="1712586324540" duration="1426000" />
       <workItem from="1712587870071" duration="194000" />
+      <workItem from="1712589154994" duration="904000" />
+      <workItem from="1712590480564" duration="196000" />
+      <workItem from="1712594482952" duration="1638000" />
+      <workItem from="1712641624487" duration="7381000" />
+      <workItem from="1712661120212" duration="23703000" />
+      <workItem from="1712730730517" duration="3719000" />
+      <workItem from="1712734711500" duration="3507000" />
+      <workItem from="1712747296936" duration="12120000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -250,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712494797255</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="add hw3.1-m4-now">
+      <option name="closed" value="true" />
+      <created>1712589454562</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1712589454562</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,6 +308,7 @@
     <MESSAGE value="add hw3.2" />
     <MESSAGE value="add hw3.3" />
     <MESSAGE value="add hw3.2-now" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw3.2-now" />
+    <MESSAGE value="add hw3.1-m4-now" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw3.1-m4-now" />
   </component>
 </project>

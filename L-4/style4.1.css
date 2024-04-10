@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+}
+*{
+    margin: 0;
+}
+.one{
+    height: 982px;
+    width: 1512px;
+    background-image: url("image1.png");
+    background-size: cover;
+    display: flex;
+
+}
+.two{
+    background-image: url("Rectangle 4.png");
+    height: 982px;
+    width: 1512px;
+    background-size: cover;
+    display: flex;
+}
+.three{
+    background-image: url("Rectangle 4-2.png");
+    height: 982px;
+    width: 1512px;
+    background-size: cover;
+    display: flex;
+}
+
+.img-text{
+    margin: 294px 226px 295px 227px ;
+    width: 1058px;
+    height: 393px;
+    display: flex;
+    background: #FAF9F7;
+
+}
+.it{
+    background-image: url("image 2.png");
+    width: 454px;
+    height: 393px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: revert;
+    align-items: center;
+
+}
+.text{
+    width: 529px;
+    height: 393px;
+    flex-shrink: 0;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+h1{
+    color: #000;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: KoHo, serif;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+p{
+    color: #000;
+    font-family: KoHo, serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.button{
+    width: 409px;
+    height: 76px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+
+.v-t{
+    width: 949px;
+    height: 1018px;
+    flex-shrink: 0;
+}
+.t3{
+    color: #000;
+    font-family: KoHo, serif;
+    font-size: 35px;
+    width: 949px;
+    height: 183px;
+    flex-shrink: 0;
+    display: block;
+
+}
+.v-t3{
+    margin: 105px 282px 100px 281px;
+}
+h1{
+    margin: 30px 0 ;
+}
+p{
+    margin: 30px 0;
+}
+
+.p-t{
+    width: 453px;
+    height: 700px;
+    flex-shrink: 10;
+    background: rgba(83, 83, 83, 0.40);
+    display: block;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 20px;
+
+}
+.img1, .img2, .img3{
+    width: 409px;
+    height: 214px;
+    flex-shrink: 0;
+    margin: 35px 22px 81px 23px;
+
+}
+.img1{
+    background-image: url("Rectangle 5.png");
+
+}
+.img2{
+    background-image: url("Rectangle 6.png");
+}
+.img3{
+    background-image: url("Rectangle 7.png");
+}
+.p1{
+    color: #000;
+    font-family: KoHo, serif;
+    font-size: 35px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+
+
+}
+.button2{
+    width: 409px;
+    height: 76px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    border: 1px solid rgba(156, 152, 152, 0.10);
+    background: rgba(217, 217, 217, 0.60);
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
+.p-b3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+

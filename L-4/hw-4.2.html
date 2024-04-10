@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        div{
+            margin: 10px;
+
+        }
+
+        .b-1{
+            margin: 40px 600px;
+            height: 400px;
+            width: 150px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+
+        }
+        .insta{
+            width: 400px;
+            display: flex;
+
+        }
+        .main{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            border-radius: 3px;
+            border: 1px grey;
+            width: 50vw;
+            height: 70vh;
+            margin: 40px;
+        }
+        input{
+            display: block;
+            margin-top: 30px;
+            justify-content:  center;
+            align-content: center;
+        }
+        #email{
+            text-overflow: ellipsis;
+        }
+
+
+
+
+    </style>
+</head>
+<body>
+    <div class="b-1">
+        <div class="BOX">
+            <div class="main">
+                <img class="insta" src="insta.png" height="148" width="500"  alt="">
+                <form>
+                    <label for="email"></label>
+                    <input type="email" name="email" id="email" placeholder="Номер телефону, ім'я користувача або email адреса" required>
+                    <label for="password"></label>
+                    <input type="password" name="password" id="password" placeholder="werd1563">
+                    <button>Увійти</button>
+                    <span>АБО</span>
+                    <div classe="Look">
+                        <img class="Logo" src="icons8-facebook-48.png" alt="facebook">
+                        <a href="#">Увійти через Facebook</a>
+                    </div>
+
+                    <div classe="question">
+                        <span style="color: black">Немає обліклвого запису? Зареєструйся</span>
+                    </div>
+
+                </form>
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

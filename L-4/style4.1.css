@@ -25,6 +25,8 @@
     width: 1512px;
     background-size: cover;
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .img-text{
@@ -37,11 +39,11 @@
 }
 .it{
     background-image: url("image 2.png");
-    width: 454px;
-    height: 393px;
+    width: 50%;
+    height: 100%;
     flex-shrink: 0;
     display: flex;
-    justify-content: revert;
+    justify-content: center;
     align-items: center;
 
 }

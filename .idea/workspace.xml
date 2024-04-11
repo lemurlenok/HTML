@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw4.2-now">
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw4.2-now-n">
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/favicon_io/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-5/hw-5.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L-4/hw-4.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-4/hw-4.1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/L-4/hw-4.2.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-4/hw-4.2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L-4/style4.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/L-4/style4.1.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -94,7 +100,8 @@
       <workItem from="1712763543782" duration="1247000" />
       <workItem from="1712767533041" duration="845000" />
       <workItem from="1712768448974" duration="163000" />
-      <workItem from="1712769119236" duration="1610000" />
+      <workItem from="1712769119236" duration="3644000" />
+      <workItem from="1712809088881" duration="7931000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -328,7 +335,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712768602645</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="add hw4.2-now-n">
+      <option name="closed" value="true" />
+      <created>1712770897494</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712770897494</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -365,6 +380,7 @@
     <MESSAGE value="add hw4.2" />
     <MESSAGE value="add hw4.2-n" />
     <MESSAGE value="add hw4.2-now" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw4.2-now" />
+    <MESSAGE value="add hw4.2-now-n" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw4.2-now-n" />
   </component>
 </project>

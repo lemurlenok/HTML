@@ -1,0 +1,43 @@
+*{
+    margin: 5px;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    font-size: 30px;
+}
+header{
+    height: 30vh;
+    background-color: #bbb8b8;
+    border: 1px solid;
+    border-radius: 20px;
+    color: #696363;
+}
+section{
+    height: 70vh;
+    width: 100vw;
+   }
+.one{
+    height: 100%;
+    width: 70%;
+    background-color:#bbb8b8;
+    border: 1px solid;
+    color: #696363;
+    border-radius: 20px;
+
+}
+.two{
+    height: 100%;
+    width: 30%;
+    background-color:#bbb8b8;
+    border: 1px solid;
+    color: #696363;
+    border-radius: 20px;
+}
+
+header, div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

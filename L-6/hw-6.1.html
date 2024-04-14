@@ -9,57 +9,108 @@
     <style>
         body{
             margin: 0;
+            width: 1200px;
+            height: 800px;
+            background-color: white;
         }
-        header, main, nav, footer{
+        header{
+            height: 15%;
+            width: 100%;
             display: flex;
+            justify-content: start;
+            align-items: center;
+            margin: 0 10px;
 
         }
-        .Link div p{
-            background-color: #345a77;
+        main, footer{
+            width: 100%;
             display: flex;
             justify-content: space-evenly;
+            align-items: center;
+        }
+        nav{
+            display: flex;
+            justify-content: center;
+            align-items: stretch;
+            margin: 10px;
+        }
+        main, nav{
+            height: 35% ;
+            width: 100%;
+        }
+        footer{
+            height: 15%;
+        }
+        .Link, .Banner, .Footer{
+            display: flex;
+            justify-content: right;
             align-items: start;
+            font-size: 30px;
+        }
+
+        .Footer, .Banner{
+            height: 100%;
+            width: 100%;
+            text-align: right;
+            background-color: blue;
+            border-radius: 20px;
+            margin: 10px;
+        }
+        .one{
+            margin: 5px;
+            background-color: blue;
+            width: 100px;
+            height: 50px;
+            border-radius: 10px;
 
         }
 
+        span{
+            color: white;
+            display: inline-block;
+            font-size: 1em;
+            left: 10%;
+        }
+
+        .A{
+            height: 40vh;
+            display: flex;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        .Article{
+            height: 40%;
+            width: 37.5vw;
+            margin: 5px;
+            background-color: blue;
+            border-radius: 5%;
+            text-align: right;
+            font-size: 30px;
+        }
     </style>
 </head>
 <body>
 <header>
     <div class="Link">
-        <div>
-            <p>Link1</p>
-        </div>
-
-        <div>
-            <p>Link2</p>
-        </div>
-        <div>
-            <p>Link3</p>
-        </div>
-        <div>
-            <p>Link4</p>
-        </div>
+        <div class="one"><span>Link1</span></div>
+        <div class="one"><span>Link2</span></div>
+        <div class="one"><span>Link3</span></div>
+        <div class="one"><span>Link4</span></div>
     </div>
 </header>
 <main>
-    <div>
-        <p>Banner</p>
-    </div>
+    <div class="Banner"><span>Banner</span></div>
 </main>
 <nav>
-    <div>
-        <div>Article1</div>
-        <div>Article2</div>
-        <div>Article3</div>
-        <div>Article4</div>
+    <div class="A">
+        <div class="Article"><span>Article1</span></div>
+        <div class="Article"><span>Article2</span></div>
+        <div class="Article"><span>Article3</span></div>
+        <div class="Article"><span>Article4</span></div>
     </div>
-
 </nav>
 <footer>
-    <div>
-        <p>Footer</p>
-    </div>
+    <div class="Footer"><span>Footer</span></div>
 </footer>
 </body>
 </html>

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-5.2t">
-      <change afterPath="$PROJECT_DIR$/L-6/hw-6.1.html" afterDir="false" />
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add L-6">
+      <change afterPath="$PROJECT_DIR$/L-6/hw-6.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-6/style-6.2-max-width-600.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-6/style6.2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-6/hw-6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/hw-6.1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -98,7 +101,12 @@
       <workItem from="1712826987764" duration="515000" />
       <workItem from="1712856846128" duration="548000" />
       <workItem from="1712929516523" duration="38000" />
-      <workItem from="1712947976203" duration="2350000" />
+      <workItem from="1712947976203" duration="2365000" />
+      <workItem from="1713019475552" duration="2937000" />
+      <workItem from="1713027588778" duration="5715000" />
+      <workItem from="1713033458232" duration="589000" />
+      <workItem from="1713087905820" duration="13723000" />
+      <workItem from="1713103276373" duration="6335000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -372,7 +380,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712857391378</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="add L-6">
+      <option name="closed" value="true" />
+      <created>1712950343844</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1712950343844</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,6 +429,7 @@
     <MESSAGE value="add L-5" />
     <MESSAGE value="add hw-5.2" />
     <MESSAGE value="add hw-5.2t" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw-5.2t" />
+    <MESSAGE value="add L-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="add L-6" />
   </component>
 </project>

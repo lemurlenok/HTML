@@ -1,0 +1,14 @@
+@media screen and (max-width: 600px){
+    .BCDEF{
+        flex-direction: column;
+    }
+    .BCDE, Flex{
+        flex-wrap: wrap;
+        width: 30%;
+    }
+    header{
+        width: 30%;
+    }
+
+
+}

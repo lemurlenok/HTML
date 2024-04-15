@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+}
+body{
+    height: 800px;
+    width: 1400px;
+    background-color:  white;
+}
+header{
+    height: 33.3%;
+    width: 100%;
+    background-color: #c5c0c0;
+    font-size: 40px;
+    color: #9a9696;
+    border: 5px solid white;
+
+}
+
+.BCDEF{
+    height: 66.7%;
+    width: 100%;
+    text-align: center;
+}
+.BCDE{
+    height: 100%;
+    width: 70%;
+    color: #9a9696;
+    border: 5px solid white;
+    font-size: 40px;
+    margin: 5px;
+}
+
+.Flex{
+    height: 100%;
+    width: 30%;
+    font-size: 40px;
+
+}
+.top{
+    color: #9a9696;
+    border: 5px solid white;
+}
+
+div{
+    background-color: #c5c0c0;
+}
+
+header, .BCDEF, .extreme, .general,.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.general,.top{
+    height: 50%;
+    width: 100%;
+
+}
+.left, .centr, .rigth{
+    height: 100%;
+    width: 33.33%;
+    border: 5px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.extreme{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #9a9696;
+    border: 5px solid white;
+}

@@ -2,12 +2,8 @@
     .BCDEF{
         flex-direction: column;
     }
-    .BCDE, Flex{
+    .BCDE{
         flex-wrap: wrap;
-        width: 30%;
-    }
-    header{
-        width: 30%;
     }
 
 }

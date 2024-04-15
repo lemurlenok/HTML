@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-6.3n">
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add hw-6.3now">
+      <change afterPath="$PROJECT_DIR$/L-6/style-6.1-max-width-600.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-6/style-6.1-max-width-800.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L-6/style-6.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-6/hw-6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/hw-6.1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L-6/style-6.3-max-wisth-600.css" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/style-6.3-max-wisth-600.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-6/style6.3.css" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/style6.3.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +110,8 @@
       <workItem from="1713087905820" duration="13723000" />
       <workItem from="1713103276373" duration="6603000" />
       <workItem from="1713110667823" duration="452000" />
-      <workItem from="1713175458914" duration="9933000" />
+      <workItem from="1713175458914" duration="10077000" />
+      <workItem from="1713192782243" duration="7090000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -410,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713185390846</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add hw-6.3now">
+      <option name="closed" value="true" />
+      <created>1713185574084</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1713185574084</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,7 +443,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add hw2-1.html" />
     <MESSAGE value="add hw2-2.html" />
     <MESSAGE value="1" />
     <MESSAGE value="add hw-2.2.html" />
@@ -453,6 +467,7 @@
     <MESSAGE value="add wh-6.2" />
     <MESSAGE value="add wh-6.3" />
     <MESSAGE value="add hw-6.3n" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hw-6.3n" />
+    <MESSAGE value="add hw-6.3now" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hw-6.3now" />
   </component>
 </project>

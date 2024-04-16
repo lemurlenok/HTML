@@ -3,14 +3,16 @@
         flex-direction: column;
         height: 300px;
         width: 800px;
+        display: flex;
+        justify-content: center;
+
 
     }
 
     .Article{
         height: 180px;
         width: 200px;
-        transform: translate(20%, 20%) rotate(-90deg);
-
+        transform: translate(0, 0) rotate(-90deg);
     }
     header{
         height: 150px;
@@ -23,5 +25,10 @@
     footer{
         width: 800px;
         height: 100px;
+    }
+    .Banner, .Article, .Footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }

@@ -2,17 +2,28 @@
     .A{
         flex-direction: column;
     }
+    header, .Banner, nav, footer, .Article{
+        width: 600px;
+    }
+
     .Article{
         height: 60px;
-        width: 600px;
     }
     header{
         height: 150px;
-        width: 600px;
-
     }
     main{
-        height: 350px;
         width: 600px;
+        height: 350px;
     }
+    footer{
+        height: 100px;
+
+    }
+    .Banner, .Article, .Footer{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
 }

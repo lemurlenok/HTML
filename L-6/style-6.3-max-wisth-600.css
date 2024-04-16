@@ -2,8 +2,27 @@
     .BCDEF{
         flex-direction: column;
     }
+    body{
+        width: 600px;
+        height: 750px;
+    }
     .BCDE{
         flex-wrap: wrap;
+        height: 70%;
+        width: 100%;
+    }
+    .BCDEF{
+        width: 600px;
+    }
+    .Flex{
+        height: 30%;
+        width: 600px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    header{
+        width: 600px;
     }
 
 }

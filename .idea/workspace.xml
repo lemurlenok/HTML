@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add EX">
+    <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add 6.2-now">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-6/hw-6.1.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/hw-6.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-6/hw-6.3.html" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/hw-6.3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/L-6/style-6.1.css" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/style-6.1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/L-6/style6.2.css" beforeDir="false" afterPath="$PROJECT_DIR$/L-6/style6.2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +111,7 @@
       <workItem from="1713175458914" duration="10077000" />
       <workItem from="1713192782243" duration="7192000" />
       <workItem from="1713258374526" duration="24529000" />
-      <workItem from="1713288239947" duration="344000" />
+      <workItem from="1713288239947" duration="3815000" />
     </task>
     <task id="LOCAL-00001" summary="add hw1-1.html">
       <option name="closed" value="true" />
@@ -462,7 +465,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713283182228</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="add 6.1-now">
+      <option name="closed" value="true" />
+      <created>1713288860927</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1713288860927</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,8 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add hw-2.3.html" />
-    <MESSAGE value="add hw-2.1.html" />
     <MESSAGE value="add L-3" />
     <MESSAGE value="add hw3.1-m5" />
     <MESSAGE value="add hw3.2" />
@@ -505,6 +514,8 @@
     <MESSAGE value="add hw-6.3now" />
     <MESSAGE value="add hw-6.1-n" />
     <MESSAGE value="add EX" />
-    <option name="LAST_COMMIT_MESSAGE" value="add EX" />
+    <MESSAGE value="add 6.1-now" />
+    <MESSAGE value="add 6.2-now" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 6.2-now" />
   </component>
 </project>

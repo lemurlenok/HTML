@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    width: 1440px;
     height: 4853px;
 }
 #one{
@@ -372,14 +373,106 @@ nav{
     margin: 200px 0 0 0;
     background-image: url("Group 439.png");
     background-color: black;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
     color: white;
 }
-.info{
-   justify-content: center;
+.general{
+    margin: 0 10vw;
+    width: 1152px;
+    height: 288px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
+.o-c{
+    color: #FF4B32;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: normal;
+    line-height: 130%; /* 31.2px */
+}
+.o-c, .o-c3{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.o-c2{
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+    font-size: 18px;
+    line-height: 160%; /* 28.8px */
+}
+.o-c3{
+    color: #FFF;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+    font-size: 18px;
+    line-height: 150%; /* 27px */
+}
+.one-coffee{
+    width: 288px;
+}
+.two-coffee{
+    width: 866px;
+    display: flex;
+    justify-content: space-around;
+}
+.img-end{
+    width: 244px;
+    height: 38px;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.end{
+    color: #FFF;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 160%; /* 25.6px */
+    display: flex;
+    justify-content: center;
+}
+.CATEGORIES, .INFORMATION, .FOLLOW-US{
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+    font-size: 24px;
+    line-height: 150%; /* 36px */
+
+}
+.TC1, .TC2, .TC3{
+    color: #FFF;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+            "wdth" 100;
+    font-size: 18px;
+    line-height: 150%; /* 27px */
+}
+
+
+
+
 
 
 

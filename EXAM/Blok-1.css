@@ -374,6 +374,7 @@ nav{
     line-height: 160%; /* 25.6px */
 }
 #six{
+    width: 1440px;
     height: 376px;
     margin: 200px 0 0 0;
     background-image: url("Group 439.png");

@@ -231,13 +231,11 @@ nav{
 }
 .four2{
     height: 650px;
-    width: 1440px;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .TT{
-
     height: 80%;
     width: 47%;
     display: flex;
@@ -247,7 +245,7 @@ nav{
 }
 
 .centr{
-    margin: 10vh 0 0 0;
+    margin: 5vh 0 0 0;
     justify-content: center;
     text-align: center;
 }
@@ -291,7 +289,7 @@ nav{
 
 #five{
     height: 760px;
-    margin: 5vh 12vw;
+    margin: 7vh 12vw;
 }
 .News{
     width: 1106px;
@@ -309,7 +307,7 @@ nav{
     height: 50%;
 }
 .bt{
-    margin: 10vh 0;
+    margin: 5vh 0;
     width: 1106px;
     display: flex;
     justify-content: space-between;

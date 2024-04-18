@@ -1,10 +1,12 @@
 body{
     margin: 0;
-    width: 1440px;
-    height: 4853px;
+}
+a{
+    text-decoration: none;
 }
 #one{
     height: 729px;
+    width: 1440px;
     background-image: url("coffe.png");
 }
 .coffee1{
@@ -84,6 +86,7 @@ button{
     font-weight: 600;
 }
 #two{
+    width: 1440px;
     height: 729px;
     margin: 15vh 10vw;
 }
@@ -158,6 +161,7 @@ button{
     opacity: 0.6;
 }
 #three{
+    width: 1440px;
     height: 1000px;
 }
 .three-3{
@@ -221,11 +225,12 @@ nav{
 }
 
 #four{
+    width: 1440px;
     height: 650px;
     background-image: url("dark.png");
 }
 .TT{
-    margin: 10vh 350px 15vh 350px;
+    margin: 10vh 35vw 15vh 350px;
     height: 80%;
     width: 47%;
     display: flex;

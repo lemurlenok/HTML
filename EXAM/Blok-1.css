@@ -1,13 +1,14 @@
 body{
     margin: 0;
 }
-a{
-    text-decoration: none;
-}
+
 #one{
     height: 729px;
     width: 1440px;
     background-image: url("coffe.png");
+}
+a{
+    text-decoration: none;
 }
 .coffee1{
     margin: 0 382px;
@@ -162,11 +163,10 @@ button{
 }
 #three{
     width: 1440px;
-    height: 1000px;
+    height: 1024px;
 }
 .three-3{
     display: flex;
-    justify-content: center;
     flex-direction: column;
     text-align: center;
 }
@@ -192,6 +192,7 @@ button{
 }
 .pp6{
     width: 609px;
+
 }
 .P6{
     color: #000;
@@ -226,11 +227,17 @@ nav{
 
 #four{
     width: 1440px;
-    height: 650px;
     background-image: url("dark.png");
 }
+.four2{
+    height: 650px;
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .TT{
-    margin: 10vh 35vw 15vh 350px;
+
     height: 80%;
     width: 47%;
     display: flex;

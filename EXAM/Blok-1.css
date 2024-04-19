@@ -2,11 +2,11 @@ body{
     margin: 0;
 }
 
-#one{
+.one-id{
     height: 729px;
     width: 1440px;
     background-image: url("coffe.png");
-}
+ }
 a{
     text-decoration: none;
 }
@@ -89,7 +89,7 @@ button{
 #two{
     width: 1440px;
     height: 729px;
-    margin: 15vh 10vw;
+    margin: 15vh 145px;
 }
 .c-2{
     width: 590px;
@@ -114,9 +114,11 @@ button{
     opacity: 0.7;
 }
 .blok-3{
+    margin: 0;
+    width: 920px;
+    height: 400px;
     display: flex;
     align-items: center;
-    margin: 10vh 20vw 0 0;
 }
 .i-c-2{
     width: 300px;
@@ -206,6 +208,7 @@ button{
     opacity: 0.7;
 }
 .grid{
+    margin: 20px 0 0 0;
     display: grid;
     height: 670px;
     grid-template-rows: 330px 230px;
@@ -227,13 +230,15 @@ nav{
 
 #four{
     width: 1440px;
-    background-image: url("dark.png");
+    height: 800px;
 }
 .four2{
+    margin: 40px 0 0 0;
     height: 650px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-image: url("dark.png");
 }
 .TT{
     height: 80%;
@@ -289,9 +294,11 @@ nav{
 
 #five{
     height: 760px;
-    margin: 7vh 12vw;
+    width: 1440px;
+
 }
 .News{
+    margin: 0 12vw 0 10vw;
     width: 1106px;
     display: flex;
     flex-direction: column;
@@ -305,6 +312,7 @@ nav{
 }
 .blok{
     height: 50%;
+    justify-content: center;
 }
 .bt{
     margin: 5vh 0;
@@ -314,6 +322,7 @@ nav{
     align-items: center;
 }
 .bt1{
+    margin: 0 30px 0 0;
     width: 362px;
     height: 536px;
     flex-shrink: 0;

@@ -7,6 +7,7 @@
     <list default="true" id="af8c3468-6379-482e-9f25-641cece63015" name="Changes" comment="add now7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/EXAM/Blok-1.css" beforeDir="false" afterPath="$PROJECT_DIR$/EXAM/Blok-1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EXAM/Blok-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/EXAM/Blok-1.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,15 +112,10 @@
       <workItem from="1713288239947" duration="4006000" />
       <workItem from="1713349499192" duration="16641000" />
       <workItem from="1713411187430" duration="15557000" />
-      <workItem from="1713428264874" duration="352000" />
-    </task>
-    <task id="LOCAL-00005" summary="add hw2-1.html">
-      <option name="closed" value="true" />
-      <created>1712174281641</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1712174281641</updated>
+      <workItem from="1713428264874" duration="370000" />
+      <workItem from="1713429248362" duration="1000" />
+      <workItem from="1713429274711" duration="616000" />
+      <workItem from="1713532452290" duration="4623000" />
     </task>
     <task id="LOCAL-00006" summary="add hw2-2.html">
       <option name="closed" value="true" />
@@ -505,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713428000605</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="add now7">
+      <option name="closed" value="true" />
+      <created>1713428623101</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1713428623101</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
